@@ -50,9 +50,3 @@
 - `tabs`: 현재 탭의 URL을 가져오기 위해 필요
 - `scripting`: 동적으로 content script를 삽입하기 위해 필요
 - `declarativeNetRequest`: 자바스크립트 차단을 위한 네트워크 필터링에 사용
-
----
-
-## 문의
-
-버그 신고 또는 개선 제안은 [ijunu3343@gmail.com]을 통해 자유롭게 작성해주세요
